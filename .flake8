@@ -1,8 +1,0 @@
-# Flake8 (p. ej. extensión Python de VS Code / Cursor).
-# Sin esto, el límite por defecto es 79 caracteres (PEP 8 estricto).
-
-[flake8]
-max-line-length = 100
-extend-ignore =
-    # Espacio antes de ':' en slices; Black y Ruff lo formatean así.
-    E203
