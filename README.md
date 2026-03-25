@@ -1,6 +1,6 @@
 # Generador números de tarjeta (Luhn) — aplicación de escritorio
 
-**Versión:** 0.1.0 (`APP_VERSION` en [`src/config.py`](src/config.py)).
+**Versión:** 1.0.0 (`APP_VERSION` en [`src/config.py`](src/config.py)).
 
 Aplicación de **escritorio** en Python con interfaz **tkinter** para practicar el **algoritmo de Luhn** (módulo 10): validación y generación de números **ficticios** con fines **didácticos**.
 
