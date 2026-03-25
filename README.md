@@ -149,7 +149,6 @@ Salida esperada: **`dist/GenCardNumb.exe`**. Más detalle en [`assets/README.md`
 ```text
 gen-card-numb/
 ├── assets/              # Iconos opcionales (PNG / ICO)
-├── docs/                  # Documentación adicional
 ├── src/
 │   ├── main.py          # Punto de entrada (logging opcional)
 │   ├── config.py        # Constantes (versión, ventana, lotes, colores, …)
